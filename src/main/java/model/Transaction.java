@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.time.OffsetDateTime;
-@AllArgsConstructor
+
 @NoArgsConstructor
 @Data
 
